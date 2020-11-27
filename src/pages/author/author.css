@@ -1,0 +1,16 @@
+
+.word {
+  font-size: 28px;
+  
+
+}
+.author {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  color: blue
+}
+.descrip {
+  font-size: 19px;
+  color: yellow;
+}
